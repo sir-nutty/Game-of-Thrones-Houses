@@ -1,0 +1,22 @@
+[
+  {
+    "name": "House Stark of Winterfell",
+    "class": "stark"
+  },
+  {
+    "name": "House Targaryen of King's Landing",
+    "class": "targaryen"
+  },
+  {
+    "name": "House Lannister of Casterly Rock",
+    "class": "lannister"
+  },
+  {
+    "name": "House Baratheon of Storm's End",
+    "class": "baratheon"
+  },
+  {
+    "name": "House Greyjoy of Pyke",
+    "class": "greyjoy"
+  }
+]

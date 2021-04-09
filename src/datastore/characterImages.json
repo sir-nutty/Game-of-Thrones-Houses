@@ -1,0 +1,450 @@
+[
+  {
+    "id": 2,
+    "image": "./images/characters/2.jpg"
+  },
+  {
+    "id": 20,
+    "image": "./images/characters/20.jpg"
+  },
+  {
+    "id": 27,
+    "image": "./images/characters/27.jpg"
+  },
+  {
+    "id": 45,
+    "image": "./images/characters/45.png"
+  },
+  {
+    "id": 48,
+    "image": "./images/characters/48.jpg"
+  },
+  {
+    "id": 49,
+    "image": "./images/characters/49.png"
+  },
+  {
+    "id": 55,
+    "image": "./images/characters/55.png"
+  },
+  {
+    "id": 58,
+    "image": "./images/characters/58.jpg"
+  },
+  {
+    "id": 60,
+    "image": "./images/characters/60.png"
+  },
+  {
+    "id": 98,
+    "image": "./images/characters/98.png"
+  },
+  {
+    "id": 115,
+    "image": "./images/characters/115.png"
+  },
+  {
+    "id": 128,
+    "image": "./images/characters/128.png"
+  },
+  {
+    "id": 148,
+    "image": "./images/characters/148.png"
+  },
+  {
+    "id": 161,
+    "image": "./images/characters/161.png"
+  },
+  {
+    "id": 168,
+    "image": "./images/characters/168.jpg"
+  },
+  {
+    "id": 169,
+    "image": "./images/characters/169.png"
+  },
+  {
+    "id": 181,
+    "image": "./images/characters/181.png"
+  },
+  {
+    "id": 208,
+    "image": "./images/characters/208.png"
+  },
+  {
+    "id": 209,
+    "image": "./images/characters/209.png"
+  },
+  {
+    "id": 216,
+    "image": "./images/characters/216.jpg"
+  },
+  {
+    "id": 230,
+    "image": "./images/characters/230.jpg"
+  },
+  {
+    "id": 232,
+    "image": "./images/characters/232.jpg"
+  },
+  {
+    "id": 238,
+    "image": "./images/characters/238.png"
+  },
+  {
+    "id": 249,
+    "image": "./images/characters/249.png"
+  },
+  {
+    "id": 270,
+    "image": "./images/characters/270.png"
+  },
+  {
+    "id": 271,
+    "image": "./images/characters/271.png"
+  },
+  {
+    "id": 339,
+    "image": "./images/characters/339.jpg"
+  },
+  {
+    "id": 361,
+    "image": "./images/characters/361.png"
+  },
+  {
+    "id": 367,
+    "image": "./images/characters/367.png"
+  },
+  {
+    "id": 385,
+    "image": "./images/characters/385.png"
+  },
+  {
+    "id": 529,
+    "image": "./images/characters/529.png"
+  },
+  {
+    "id": 560,
+    "image": "./images/characters/560.png"
+  },
+  {
+    "id": 561,
+    "image": "./images/characters/561.png"
+  },
+  {
+    "id": 576,
+    "image": "./images/characters/576.jpg"
+  },
+  {
+    "id": 583,
+    "image": "./images/characters/583.png"
+  },
+  {
+    "id": 605,
+    "image": "./images/characters/605.png"
+  },
+  {
+    "id": 613,
+    "image": "./images/characters/613.jpg"
+  },
+  {
+    "id": 615,
+    "image": "./images/characters/615.png"
+  },
+  {
+    "id": 709,
+    "image": "./images/characters/709.png"
+  },
+  {
+    "id": 718,
+    "image": "./images/characters/718.png"
+  },
+  {
+    "id": 725,
+    "image": "./images/characters/725.jpg"
+  },
+  {
+    "id": 767,
+    "image": "./images/characters/767.png"
+  },
+  {
+    "id": 779,
+    "image": "./images/characters/779.png"
+  },
+  {
+    "id": 794,
+    "image": "./images/characters/794.png"
+  },
+  {
+    "id": 797,
+    "image": "./images/characters/797.png"
+  },
+  {
+    "id": 862,
+    "image": "./images/characters/862.png"
+  },
+  {
+    "id": 867,
+    "image": "./images/characters/867.png"
+  },
+  {
+    "id": 868,
+    "image": "./images/characters/868.jpg"
+  },
+  {
+    "id": 869,
+    "image": "./images/characters/869.png"
+  },
+  {
+    "id": 870,
+    "image": "./images/characters/870.jpg"
+  },
+  {
+    "id": 872,
+    "image": "./images/characters/872.png"
+  },
+  {
+    "id": 873,
+    "image": "./images/characters/873.png"
+  },
+  {
+    "id": 876,
+    "image": "./images/characters/876.jpg"
+  },
+  {
+    "id": 887,
+    "image": "./images/characters/887.png"
+  },
+  {
+    "id": 891,
+    "image": "./images/characters/891.jpg"
+  },
+  {
+    "id": 904,
+    "image": "./images/characters/904.png"
+  },
+  {
+    "id": 912,
+    "image": "./images/characters/912.jpg"
+  },
+  {
+    "id": 913,
+    "image": "./images/characters/913.jpg"
+  },
+  {
+    "id": 955,
+    "image": "./images/characters/955.png"
+  },
+  {
+    "id": 957,
+    "image": "./images/characters/957.png"
+  },
+  {
+    "id": 986,
+    "image": "./images/characters/986.png"
+  },
+  {
+    "id": 1022,
+    "image": "./images/characters/1022.png"
+  },
+  {
+    "id": 1026,
+    "image": "./images/characters/1026.png"
+  },
+  {
+    "id": 1029,
+    "image": "./images/characters/1029.jpg"
+  },
+  {
+    "id": 1050,
+    "image": "./images/characters/1050.jpg"
+  },
+  {
+    "id": 1052,
+    "image": "./images/characters/1052.png"
+  },
+  {
+    "id": 1057,
+    "image": "./images/characters/1057.png"
+  },
+  {
+    "id": 1072,
+    "image": "./images/characters/1072.png"
+  },
+  {
+    "id": 1079,
+    "image": "./images/characters/1079.jpg"
+  },
+  {
+    "id": 1116,
+    "image": "./images/characters/1116.jpg"
+  },
+  {
+    "id": 1142,
+    "image": "./images/characters/1142.jpg"
+  },
+  {
+    "id": 1188,
+    "image": "./images/characters/1188.jpg"
+  },
+  {
+    "id": 1190,
+    "image": "./images/characters/1190.png"
+  },
+  {
+    "id": 1242,
+    "image": "./images/characters/1242.png"
+  },
+  {
+    "id": 1272,
+    "image": "./images/characters/1272.png"
+  },
+  {
+    "id": 1292,
+    "image": "./images/characters/1292.png"
+  },
+  {
+    "id": 1303,
+    "image": "./images/characters/1303.jpg"
+  },
+  {
+    "id": 1306,
+    "image": "./images/characters/1306.png"
+  },
+  {
+    "id": 1340,
+    "image": "./images/characters/1340.jpg"
+  },
+  {
+    "id": 1345,
+    "image": "./images/characters/1345.jpg"
+  },
+  {
+    "id": 1358,
+    "image": "./images/characters/1358.png"
+  },
+  {
+    "id": 1383,
+    "image": "./images/characters/1383.jpg"
+  },
+  {
+    "id": 1416,
+    "image": "./images/characters/1416.jpg"
+  },
+  {
+    "id": 1442,
+    "image": "./images/characters/1442.jpg"
+  },
+  {
+    "id": 1445,
+    "image": "./images/characters/1445.png"
+  },
+  {
+    "id": 1499,
+    "image": "./images/characters/1499.jpg"
+  },
+  {
+    "id": 1520,
+    "image": "./images/characters/1520.png"
+  },
+  {
+    "id": 1523,
+    "image": "./images/characters/1523.png"
+  },
+  {
+    "id": 1526,
+    "image": "./images/characters/1526.jpg"
+  },
+  {
+    "id": 1527,
+    "image": "./images/characters/1527.png"
+  },
+  {
+    "id": 1528,
+    "image": "./images/characters/1528.png"
+  },
+  {
+    "id": 1548,
+    "image": "./images/characters/1548.png"
+  },
+  {
+    "id": 1560,
+    "image": "./images/characters/1560.jpg"
+  },
+  {
+    "id": 1649,
+    "image": "./images/characters/1649.jpg"
+  },
+  {
+    "id": 1650,
+    "image": "./images/characters/1650.jpg"
+  },
+  {
+    "id": 1706,
+    "image": "./images/characters/1706.jpg"
+  },
+  {
+    "id": 1709,
+    "image": "./images/characters/1709.png"
+  },
+  {
+    "id": 1749,
+    "image": "./images/characters/1749.jpg"
+  },
+  {
+    "id": 1787,
+    "image": "./images/characters/1787.jpg"
+  },
+  {
+    "id": 1796,
+    "image": "./images/characters/1796.png"
+  },
+  {
+    "id": 1826,
+    "image": "./images/characters/1826.png"
+  },
+  {
+    "id": 1843,
+    "image": "./images/characters/1843.jpg"
+  },
+  {
+    "id": 1848,
+    "image": "./images/characters/1848.png"
+  },
+  {
+    "id": 1856,
+    "image": "./images/characters/1856.jpg"
+  },
+  {
+    "id": 1873,
+    "image": "./images/characters/1873.png"
+  },
+  {
+    "id": 1874,
+    "image": "./images/characters/1874.png"
+  },
+  {
+    "id": 1944,
+    "image": "./images/characters/1944.jpg"
+  },
+  {
+    "id": 1971,
+    "image": "./images/characters/1971.jpg"
+  },
+  {
+    "id": 1979,
+    "image": "./images/characters/1979.png"
+  },
+  {
+    "id": 2020,
+    "image": "./images/characters/2020.jpg"
+  },
+  {
+    "id": 2068,
+    "image": "./images/characters/2068.jpg"
+  },
+  {
+    "id": 2071,
+    "image": "./images/characters/2071.png"
+  }
+]

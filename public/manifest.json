@@ -1,0 +1,8 @@
+{
+  "short_name": "GoT Houses",
+  "name": "Game of Thrones Houses",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}

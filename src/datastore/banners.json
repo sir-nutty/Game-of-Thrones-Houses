@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Stark",
+    "house": "House Stark of Winterfell",
+    "image": "./images/banners/stark.png"
+  },
+  {
+    "name": "Targaryen",
+    "house": "House Targaryen of King's Landing",
+    "image": "./images/banners/targaryen.png"
+  },
+  {
+    "name": "Lannister",
+    "house": "House Lannister of Casterly Rock",
+    "image": "./images/banners/lannister.png"
+  },
+  {
+    "name": "Baratheon",
+    "house": "House Baratheon of Storm's End",
+    "image": "./images/banners/baratheon.png"
+  },
+  {
+    "name": "Greyjoy",
+    "house": "House Greyjoy of Pyke",
+    "image": "./images/banners/greyjoy.png"
+  }
+]
